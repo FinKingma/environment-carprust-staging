@@ -7,9 +7,6 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.build.cd.jenkins-x.io
   version: 2.3.56
-- name: node-roze-olifant
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.4
 - name: demo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
